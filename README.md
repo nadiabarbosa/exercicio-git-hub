@@ -2,7 +2,7 @@
 
 ## Dupla:
 
-- Nome do integrante 1: [Nádia-GitHub](https://github.com/nelsonamorim)
+- Nome do integrante 1: [Nelson-GitHub](https://github.com/nelsonamorim)
 - Nome do integrante 2: [Nádia-GitHub](https://github.com/nadiabarbosa)
 
 ### Confingurações do Git
